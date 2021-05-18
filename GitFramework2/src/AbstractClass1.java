@@ -6,20 +6,7 @@ abstract class SuperClass
 	void disp()
 	{
 		System.out.println("This is a Concrete Method in the super class");
-	}
-	void gitMethod()
-	{
-		System.out.println("This method added from GIT");	
-	}
-
-	void ideMethod()
-	{
-		System.out.println("This method added from IDE");	
-	}
-	void meth()
-	{
-		System.out.println("This method added from local");	
-	}
+	}	
 }
 
 public class AbstractClass1 extends SuperClass
