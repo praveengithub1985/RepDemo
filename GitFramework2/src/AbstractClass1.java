@@ -5,7 +5,7 @@ abstract class SuperClass
 	abstract int sumOfThree(int a, int b, int c);
 	void disp()
 	{
-		System.out.println("This is a Concrete Method in the super class");
+		System.out.println("This is a Concrete Method in the super class");		
 	}		
 }
 
