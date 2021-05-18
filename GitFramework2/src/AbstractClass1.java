@@ -7,7 +7,7 @@ abstract class SuperClass
 	{
 		System.out.println("This is a Concrete Method in the super class");
 	}
-	void eclipse()
+	void git()
 	{
 		System.out.println("This is a Concrete Method in the super class");
 	}	
