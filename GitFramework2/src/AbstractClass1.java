@@ -12,6 +12,10 @@ abstract class SuperClass
 	{
 		System.out.println("This method added from IDE");	
 	}
+	void meth()
+	{
+		System.out.println("This method added from local");	
+	}
 }
 
 public class AbstractClass1 extends SuperClass
