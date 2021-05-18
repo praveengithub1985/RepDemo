@@ -6,11 +6,7 @@ abstract class SuperClass
 	void disp()
 	{
 		System.out.println("This is a Concrete Method in the super class");
-	}
-	void git()
-	{
-		System.out.println("This is a Concrete Method in the super class");
-	}	
+	}		
 }
 
 public class AbstractClass1 extends SuperClass
