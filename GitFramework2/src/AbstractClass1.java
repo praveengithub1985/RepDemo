@@ -7,6 +7,10 @@ abstract class SuperClass
 	{
 		System.out.println("This is a Concrete Method in the super class");
 	}
+	void gitMethod()
+	{
+		System.out.println("This method added from repository");
+	}
 }
 
 public class AbstractClass1 extends SuperClass
